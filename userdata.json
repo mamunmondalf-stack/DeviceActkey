@@ -10,17 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "65e0063e42b484c0",
-        "key": "Mamon123",
-        "expirydate": "20-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9b48e7ea884226be",
-        "key": "key123",
-        "expirydate": "20-10-2025",
-        "Allowoffline": false
-    },
+    }
 ]
